@@ -9,7 +9,7 @@ To install faker uses pip installer `pip install Faker`
 * Add the python file `fakedatagenerator.py` into your local project.
 * Import the file using `from fakedatagenerator import fakedata as fd`
 * Create instance using `FD=fd(X)`, where `X` is an integer that will decide the first index of the data
-* Use `FD.Fakedatagenerator()
+* Use `FD.Fakedatagenerator()`
 
 _Input Parameters_
 
